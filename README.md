@@ -372,7 +372,7 @@ This system is well-suited for modern web applications and decentralized platfor
 
 ## 👨‍🎓 Author
 
-**Kishore M**  
+**Prakasam P**  
 B.E. Computer Science and Engineering  
 Saveetha Engineering College  
 
@@ -380,7 +380,7 @@ Saveetha Engineering College
 
 ## 👩‍🏫 Supervisor
 
-**Ms. Priyanga G, M.Tech**  
+**Mrs.Silambarasi C**  
 Assistant Professor  
 Department of Artificial Intelligence & Machine Learning  
 Saveetha Engineering College  
